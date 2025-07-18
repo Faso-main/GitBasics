@@ -1,0 +1,15 @@
+*.pth
+bot.log
+Handlers/__pycache__/Dispatch.cpython-311.pyc
+__pycache__/Main.cpython-311.pyc
+BD/__pycache__/models.cpython-311.pyc
+BD/__pycache__/SqlFunctions.cpython-311.pyc
+BD/__pycache__/models.cpython-311.pyc
+__pycache__/Main.cpython-311.pyc
+Handlers/__pycache__/Keyboards.cpython-311.pyc
+Handlers/__pycache__/Survey.cpython-311.pyc
+LLM/__pycache__/Main_LLM.cpython-311.pyc
+LLM/Test_LLM.py
+__pycache__/
+Handlers/Encoder.py
+LM/Key.json
