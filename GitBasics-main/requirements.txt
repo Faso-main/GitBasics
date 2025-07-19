@@ -1,0 +1,10 @@
+aiogram==3.13.1
+gspread==6.1.2
+numpy==1.26.1
+alembic==1.14.1
+SQLAlchemy==2.0.37
+transformers
+ipywidgets
+huggingface_hub
+scikit-learn
+pandas
